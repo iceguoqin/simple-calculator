@@ -1,4 +1,4 @@
-def get_gcd(a: int, b: int) -> int:
+def gcd(a: int, b: int) -> int:
     """
     get the greatest common devider of two numbers
     """
