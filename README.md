@@ -8,3 +8,5 @@ A simple calculator, steps are here:
 3. calculate a + b
 4. calculate a - b
 5. calculate a * b
+### Refer: 
+https://cs50.harvard.edu/python/2022/project/
