@@ -1,6 +1,6 @@
 # simple-calculator
 My final prject for CS50 Python course, a simple calculator.
-### Video Demo: xxx
+### Video Demo: https://www.bilibili.com/video/BV1fC411W7yG/
 ### Description: 
 A simple calculator, steps are here:
 1. you input 2 numbers: a, b
