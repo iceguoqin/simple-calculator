@@ -8,5 +8,7 @@ A simple calculator, steps are here:
 3. calculate a + b
 4. calculate a - b
 5. calculate a * b
+### Project introduction
+Well, wwe have only one file, project.py
 ### Refer: 
 https://cs50.harvard.edu/python/2022/project/
